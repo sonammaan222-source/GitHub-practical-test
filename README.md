@@ -1,29 +1,27 @@
+# GIT AND GITHUB – PRACTICAL TEST
 
-# GitHub Practical Test
+| Full Name | URN Number | Semester |
+|---|---|---|
+| Sonam Maan | E25B031544 | 3rd Semester |
 
-**Full Name:** Sonam Maan
-
-**URN Number:** Your URN
-
-**Semester:** 3rd Semester
-
-**Section:** Your Section
-
-**Subject:** Git and GitHub
+| Section | Subject |
+|---|---|
+| A | Git and GitHub |
 
 ## Project Description
-This is my personal portfolio website created using
-HTML, CSS and JavaScript.
+
+This project is a basic personal portfolio website created using HTML, CSS and JavaScript.
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
+- Git and GitHub
 
 ## Features
-- Navigation bar
-- About Me section
-- Skills section
-- Projects section
-- Contact section
-- JavaScript alert button
+- Navigation Bar
+- About Me Section
+- Skills Section
+- Projects Section
+- Contact Section
+- JavaScript Interaction
